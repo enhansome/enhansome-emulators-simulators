@@ -1,74 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "PCs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mini Computers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Home Computers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mainframes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Consoles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CPUs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Microcontrollers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Robotics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Internet of Things"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Networks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Various"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Please, read the Contribution Guidelines before submitting your suggestion.\nFeel free to open an issue or create a pull request with your additions.\n:star2: Thank you!",
-      "items": [],
-      "title": "Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:07:59.246Z",
+    "last_updated": "2026-08-19T12:28:20.177Z",
     "original_repository": "mcicolella/awesome-emulators-simulators",
+    "original_repository_id": 66467957,
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
     "enhanced_repository": "enhansome/enhansome-emulators-simulators",
     "enhanced_repository_description": null,
