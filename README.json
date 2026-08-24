@@ -1,7 +1,425 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PCx86",
+          "description": "IBM PC and PC-compatible emulator Emulator A variety of XT and AT class machines, with processors ranging from the 8088 through the 80386 All platforms Javascript GNU GPLv3 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233167483,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T21:54:04Z",
+            "owner": "jeffpar",
+            "repo": "pcjs",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XTulator",
+          "description": "x86 PC emulator up to Intel 80186 Emulator 0.20.7.15 pre-alpha Intel 8086 and 80186 Cross platform C https://github.com/mikechambers84/XTulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277698662,
+            "language": "C",
+            "last_commit": "2024-06-19T03:56:51Z",
+            "owner": "mikechambers84",
+            "repo": "XTulator",
+            "stars": 193
+          }
+        }
+      ],
+      "title": "PCs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apple II",
+          "description": "Apple II emulator Emulator 1.25.04 Apple II Windows C++ GNU GPL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18493101,
+            "language": "C",
+            "last_commit": "2026-08-15T15:14:35Z",
+            "owner": "AppleWin",
+            "repo": "AppleWin",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atari 800",
+          "description": "Atari 800 emulator Emulator 4.2.0 Atari 8-bit computer systems and 5200 game console Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS-Windows, MS WinCE, Sega Dreamcast, Android and other systems supported by the SDL library C GNU GPLv2 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99251536,
+            "language": "C",
+            "last_commit": "2026-08-22T12:33:41Z",
+            "owner": "atari800",
+            "repo": "atari800",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vAmiga",
+          "description": "Commodore Amiga 500, 1000 and 2000 emulator Emulator 1.1beta3 Commodore Amiga 500, 1000 and 2000 Only macOS C++ GNU GPLv3 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165393111,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:20:10Z",
+            "owner": "dirkwhoffmann",
+            "repo": "vAmiga",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUAE",
+          "description": "Windows porting of the UAE Amiga Emulator Emulator Commodore Amiga Windows C++ GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530809,
+            "language": "C++",
+            "last_commit": "2026-08-21T15:03:16Z",
+            "owner": "tonioni",
+            "repo": "WinUAE",
+            "stars": 677
+          }
+        }
+      ],
+      "title": "Home Computers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dolphin",
+          "description": "Currently it is the only emulator that can emulate a console of the 7th generation Emulator 5.0 Gamecube, Wii Windows, Mac OS X, Linux, Android C++ GPLv2+ Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11577304,
+            "language": "C++",
+            "last_commit": "2026-08-23T16:58:47Z",
+            "owner": "dolphin-emu",
+            "repo": "dolphin",
+            "stars": 15432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEmu",
+          "description": "Partially based on Retroarch but with the aim of providing a Mac-like experience. Emulator 2.0.3 Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc. Mac OS X Objective-C BSD-3-Clause Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185279,
+            "language": "Swift",
+            "last_commit": "2025-10-22T21:39:10Z",
+            "owner": "OpenEmu",
+            "repo": "OpenEmu",
+            "stars": 17721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCSX2",
+          "description": "Playstation 2 emulator Emulator 1.4.0 Playstation 2 Windows, Linux C++ GNU GPL Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15379620,
+            "language": "C++",
+            "last_commit": "2026-08-21T17:57:43Z",
+            "owner": "PCSX2",
+            "repo": "pcsx2",
+            "stars": 15358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project64",
+          "description": "N64 emulator Emulator 2.3.2-202 Nintendo 64 Windows C, C++ GPL GNUv2 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26941088,
+            "language": "C++",
+            "last_commit": "2026-08-20T23:54:20Z",
+            "owner": "project64",
+            "repo": "project64",
+            "stars": 3021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroArch",
+          "description": "An all-in-one emulator that is able to run games from pretty much every retro console out there Emulator 1.3.6 Atari, Nes, Famicom, SNES, N64, GB / GBA, Mega Drive / Genesis, PS1 etc. Windows, Mac OS X, Linux, mobile devices, RPI C GPLv3 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 689344,
+            "language": "C",
+            "last_commit": "2026-08-24T02:11:33Z",
+            "owner": "libretro",
+            "repo": "RetroArch",
+            "stars": 13563
+          }
+        }
+      ],
+      "title": "Consoles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARM-js",
+          "description": "An ARM emulator Emulator ARMv7-A Chrome, Firefox Javascript GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4536941,
+            "language": "JavaScript",
+            "last_commit": "2014-02-11T13:26:51Z",
+            "owner": "ozaki-r",
+            "repo": "arm-js",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicorn",
+          "description": "Lightweight multi-platform, multi-architecture CPU emulator framework Emulator 1.0.1 Arm, Arm64 (Armv8), M68K, Mips, Sparc, & X86 (include X86_64) Windows, Mac OSX, Linux, BSD, Solaris Pure C language with bindings for Crystal, Clojure, Visual Basic, Perl, Rust, Haskell, Ruby, Python, Java, Go, .NET, Delphi/Pascal & MSVC GPL v2 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41107037,
+            "language": "C",
+            "last_commit": "2026-07-30T16:17:57Z",
+            "owner": "unicorn-engine",
+            "repo": "unicorn",
+            "stars": 9259
+          }
+        }
+      ],
+      "title": "CPUs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robocode",
+          "description": "Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen. Simulator 1.9.3.2 All platforms Java, .NET Eclipse Public License v1.0 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5487921,
+            "language": "Java",
+            "last_commit": "2026-08-18T17:25:11Z",
+            "owner": "robo-code",
+            "repo": "robocode",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARP",
+          "description": "YARP stands for Yet Another Robot Platform. What is it? If data is the bloodstream of your robot, then YARP is the circulatory system. Collection of robotics programs 3.2.1 All platforms C++ BSD-3-Clause license GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9517720,
+            "language": "C++",
+            "last_commit": "2026-08-24T11:52:37Z",
+            "owner": "robotology",
+            "repo": "yarp",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webots",
+          "description": "Webots is an open source robot simulator that provides a complete development environment to model, program and simulate robots. Simulator R2020b-rev1 All platforms C++ Apache 2.0 license GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156228018,
+            "language": "C++",
+            "last_commit": "2026-08-24T09:37:47Z",
+            "owner": "cyberbotics",
+            "repo": "webots",
+            "stars": 4573
+          }
+        }
+      ],
+      "title": "Robotics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arm Mbed OS simulator",
+          "description": "Experimental simulator for Mbed OS 5 applications Simulator Mbed OS 5 All browsers C++, Javascript GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110965716,
+            "language": "C",
+            "last_commit": "2021-09-13T16:03:34Z",
+            "owner": "janjongboom",
+            "repo": "mbed-simulator",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hue-Emulator",
+          "description": "The Hue Emulator is a Bridge Emulator for the Philips Hue - Personal Wireless System Emulator 0.8 Philips Hue bridge and light bulbs All platforms Java GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15141661,
+            "language": "Java",
+            "last_commit": "2022-07-08T12:22:12Z",
+            "owner": "SteveyO",
+            "repo": "Hue-Emulator",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sense HAT",
+          "description": "Raspberry Pi Sense HAT emulator based on Sense HAT Python library Emulator 2.1.0 Rpi Sensor HAT Web browser Python BSD-3-Clause GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43307540,
+            "language": "Python",
+            "last_commit": "2016-07-12T13:22:56Z",
+            "owner": "waveform80",
+            "repo": "python-sense-hat",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS IoT device simulator",
+          "description": "IoT device simulator in AWS Simulator v1.0.1 All browsers AWS cloud, Docker Javascript ASL (Amazon Software License) GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 126382074,
+            "language": "TypeScript",
+            "last_commit": "2025-01-30T20:24:54Z",
+            "owner": "aws-solutions",
+            "repo": "iot-device-simulator",
+            "stars": 183
+          }
+        }
+      ],
+      "title": "Internet of Things"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MovSim",
+          "description": "Multi-model open-source vehicular-traffic simulator Simulator 1.6.0 All platforms Java GPL v3 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1984080,
+            "language": "Java",
+            "last_commit": "2026-04-10T23:46:55Z",
+            "owner": "movsim",
+            "repo": "movsim",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Simulator",
+          "description": "Traffic simulator Simulator All browsers HTML5 GPL v3 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69392792,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T17:36:44Z",
+            "owner": "movsim",
+            "repo": "traffic-simulation-de",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turing Machine Simulator",
+          "description": "Turing machine simulator Simulator All browsers Javascript, Jquery GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27989855,
+            "language": "JavaScript",
+            "last_commit": "2024-01-28T00:17:44Z",
+            "owner": "awmorp",
+            "repo": "turing",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enigma Machine Emulator",
+          "description": "A command line application to emulate the M3 Enigma machine. Emulator All platforms Go CC0 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350832456,
+            "language": "Go",
+            "last_commit": "2023-05-19T13:24:41Z",
+            "owner": "mirkoperillo",
+            "repo": "enigma",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtual Apollo Guidance Computer",
+          "description": "Apollo Guidance Computer simulator Simulator All platforms C++ GPL GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33563164,
+            "language": "Assembly",
+            "last_commit": "2026-08-19T23:47:01Z",
+            "owner": "virtualagc",
+            "repo": "virtualagc",
+            "stars": 3210
+          }
+        }
+      ],
+      "title": "Various"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:04:19.315Z",
+    "last_updated": "2026-08-24T14:34:09.176Z",
     "original_repository": "mcicolella/awesome-emulators-simulators",
     "original_repository_id": 66467957,
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
