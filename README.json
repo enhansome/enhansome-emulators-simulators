@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "PCx86",
-          "description": "IBM PC and PC-compatible emulator Emulator A variety of XT and AT class machines, with processors ranging from the 8088 through the 80386 All platforms Javascript GNU GPLv3 GitHub",
+          "description": "IBM PC and PC-compatible emulator Emulator  A variety of XT and AT class machines, with processors ranging from the 8088 through the 80386 All platforms Javascript GNU GPLv3 GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -21,7 +21,7 @@
         {
           "node_type": "item",
           "title": "XTulator",
-          "description": "x86 PC emulator up to Intel 80186 Emulator 0.20.7.15 pre-alpha Intel 8086 and 80186 Cross platform C https://github.com/mikechambers84/XTulator",
+          "description": "x86 PC emulator up to Intel 80186 Emulator 0.20.7.15 pre-alpha Intel 8086 and 80186 Cross platform C  https://github.com/mikechambers84/XTulator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -87,7 +87,7 @@
         {
           "node_type": "item",
           "title": "WinUAE",
-          "description": "Windows porting of the UAE Amiga Emulator Emulator Commodore Amiga Windows C++ GitHub",
+          "description": "Windows porting of the UAE Amiga Emulator Emulator  Commodore Amiga Windows C++  GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-23T16:58:47Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15433
+            "stars": 15435
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-24T16:23:57Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15361
+            "stars": 15364
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T23:54:20Z",
             "owner": "project64",
             "repo": "project64",
-            "stars": 3023
+            "stars": 3025
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-24T02:11:33Z",
+            "last_commit": "2026-08-25T00:12:07Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13564
+            "stars": 13569
           }
         }
       ],
@@ -189,7 +189,7 @@
         {
           "node_type": "item",
           "title": "ARM-js",
-          "description": "An ARM emulator Emulator ARMv7-A Chrome, Firefox Javascript GitHub",
+          "description": "An ARM emulator Emulator  ARMv7-A Chrome, Firefox Javascript  GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9260
+            "stars": 9263
           }
         }
       ],
@@ -225,7 +225,7 @@
         {
           "node_type": "item",
           "title": "Robocode",
-          "description": "Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen. Simulator 1.9.3.2 All platforms Java, .NET Eclipse Public License v1.0 GitHub",
+          "description": "Robocode is a programming game, where the goal is to develop a robot battle tank to battle against other tanks in Java or .NET. The robot battles are running in real-time and on-screen. Simulator 1.9.3.2  All platforms Java, .NET Eclipse Public License v1.0 GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -240,13 +240,13 @@
         {
           "node_type": "item",
           "title": "YARP",
-          "description": "YARP stands for Yet Another Robot Platform. What is it? If data is the bloodstream of your robot, then YARP is the circulatory system. Collection of robotics programs 3.2.1 All platforms C++ BSD-3-Clause license GitHub",
+          "description": "YARP stands for Yet Another Robot Platform. What is it? If data is the bloodstream of your robot, then YARP is the circulatory system. Collection of robotics programs 3.2.1  All platforms C++ BSD-3-Clause license GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-24T11:52:37Z",
+            "last_commit": "2026-08-25T00:14:41Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
@@ -255,16 +255,16 @@
         {
           "node_type": "item",
           "title": "webots",
-          "description": "Webots is an open source robot simulator that provides a complete development environment to model, program and simulate robots. Simulator R2020b-rev1 All platforms C++ Apache 2.0 license GitHub",
+          "description": "Webots is an open source robot simulator that provides a complete development environment to model, program and simulate robots. Simulator R2020b-rev1  All platforms C++ Apache 2.0 license GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 156228018,
             "language": "C++",
-            "last_commit": "2026-08-24T09:37:47Z",
+            "last_commit": "2026-08-25T05:43:05Z",
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4573
+            "stars": 4574
           }
         }
       ],
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "Arm Mbed OS simulator",
-          "description": "Experimental simulator for Mbed OS 5 applications Simulator Mbed OS 5 All browsers C++, Javascript GitHub",
+          "description": "Experimental simulator for Mbed OS 5 applications Simulator  Mbed OS 5 All browsers C++, Javascript  GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "Hue-Emulator",
-          "description": "The Hue Emulator is a Bridge Emulator for the Philips Hue - Personal Wireless System Emulator 0.8 Philips Hue bridge and light bulbs All platforms Java GitHub",
+          "description": "The Hue Emulator is a Bridge Emulator for the Philips Hue - Personal Wireless System Emulator 0.8 Philips Hue bridge and light bulbs All platforms Java  GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "MovSim",
-          "description": "Multi-model open-source vehicular-traffic simulator Simulator 1.6.0 All platforms Java GPL v3 GitHub",
+          "description": "Multi-model open-source vehicular-traffic simulator Simulator 1.6.0  All platforms Java GPL v3 GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "Traffic Simulator",
-          "description": "Traffic simulator Simulator All browsers HTML5 GPL v3 GitHub",
+          "description": "Traffic simulator Simulator   All browsers HTML5 GPL v3 GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -372,7 +372,7 @@
         {
           "node_type": "item",
           "title": "Turing Machine Simulator",
-          "description": "Turing machine simulator Simulator All browsers Javascript, Jquery GitHub",
+          "description": "Turing machine simulator Simulator   All browsers Javascript, Jquery  GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "Enigma Machine Emulator",
-          "description": "A command line application to emulate the M3 Enigma machine. Emulator All platforms Go CC0 Github",
+          "description": "A command line application to emulate the M3 Enigma machine. Emulator   All platforms Go CC0 Github",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -402,13 +402,13 @@
         {
           "node_type": "item",
           "title": "Virtual Apollo Guidance Computer",
-          "description": "Apollo Guidance Computer simulator Simulator All platforms C++ GPL GitHub",
+          "description": "Apollo Guidance Computer simulator Simulator   All platforms C++ GPL GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33563164,
             "language": "Assembly",
-            "last_commit": "2026-08-19T23:47:01Z",
+            "last_commit": "2026-08-25T00:10:05Z",
             "owner": "virtualagc",
             "repo": "virtualagc",
             "stars": 3210
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:11:33.976Z",
+    "last_updated": "2026-08-25T06:22:49.154Z",
     "original_repository": "mcicolella/awesome-emulators-simulators",
     "original_repository_id": 66467957,
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
