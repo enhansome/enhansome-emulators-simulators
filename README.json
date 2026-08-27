@@ -78,7 +78,7 @@
             "archived": false,
             "id": 165393111,
             "language": "C++",
-            "last_commit": "2026-08-26T15:45:56Z",
+            "last_commit": "2026-08-27T10:55:33Z",
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
             "stars": 404
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-25T19:24:09Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15446
+            "stars": 15447
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-10-22T21:39:10Z",
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17726
+            "stars": 17728
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-24T16:23:57Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15375
+            "stars": 15376
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-27T01:30:27Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13577
+            "stars": 13578
           }
         }
       ],
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-07-30T16:17:57Z",
+            "last_commit": "2026-08-27T11:23:41Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9269
+            "stars": 9270
           }
         }
       ],
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-25T15:33:41Z",
             "owner": "robo-code",
             "repo": "robocode",
-            "stars": 815
+            "stars": 813
           }
         },
         {
@@ -246,7 +246,7 @@
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-25T07:36:58Z",
+            "last_commit": "2026-08-27T10:03:42Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-27T00:22:39Z",
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4577
+            "stars": 4578
           }
         }
       ],
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-25T23:18:55Z",
             "owner": "virtualagc",
             "repo": "virtualagc",
-            "stars": 3213
+            "stars": 3214
           }
         }
       ],
@@ -419,9 +419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:16:30.096Z",
-    "original_repository": "mcicolella/awesome-emulators-simulators",
-    "original_repository_id": 66467957,
+    "last_updated": "2026-08-27T11:35:35.092Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 66467957,
+      "language": null,
+      "last_commit": "2024-10-30T07:01:15Z",
+      "owner": "mcicolella",
+      "repo": "awesome-emulators-simulators",
+      "stars": 215
+    },
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
     "enhanced_repository": "enhansome/enhansome-emulators-simulators",
     "enhanced_repository_description": null,
