@@ -15,7 +15,7 @@
             "last_commit": "2026-03-18T21:54:04Z",
             "owner": "jeffpar",
             "repo": "pcjs",
-            "stars": 1213
+            "stars": 1212
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-15T15:14:35Z",
             "owner": "AppleWin",
             "repo": "AppleWin",
-            "stars": 922
+            "stars": 921
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 165393111,
             "language": "C++",
-            "last_commit": "2026-08-25T13:55:33Z",
+            "last_commit": "2026-08-26T15:45:56Z",
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
             "stars": 404
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-25T19:24:09Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15438
+            "stars": 15446
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-24T16:23:57Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15369
+            "stars": 15375
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T23:54:20Z",
             "owner": "project64",
             "repo": "project64",
-            "stars": 3025
+            "stars": 3026
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-25T09:20:00Z",
+            "last_commit": "2026-08-27T01:30:27Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13574
+            "stars": 13577
           }
         }
       ],
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9264
+            "stars": 9269
           }
         }
       ],
@@ -261,10 +261,10 @@
             "archived": false,
             "id": 156228018,
             "language": "C++",
-            "last_commit": "2026-08-25T05:43:05Z",
+            "last_commit": "2026-08-27T00:22:39Z",
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4575
+            "stars": 4577
           }
         }
       ],
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 33563164,
             "language": "Assembly",
-            "last_commit": "2026-08-25T18:44:44Z",
+            "last_commit": "2026-08-25T23:18:55Z",
             "owner": "virtualagc",
             "repo": "virtualagc",
-            "stars": 3210
+            "stars": 3213
           }
         }
       ],
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:11:27.226Z",
+    "last_updated": "2026-08-27T02:16:30.096Z",
     "original_repository": "mcicolella/awesome-emulators-simulators",
     "original_repository_id": 66467957,
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
