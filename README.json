@@ -16,7 +16,8 @@
             "owner": "jeffpar",
             "repo": "pcjs",
             "stars": 1212
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikechambers84",
             "repo": "XTulator",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "PCs"
@@ -52,7 +54,8 @@
             "owner": "AppleWin",
             "repo": "AppleWin",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "atari800",
             "repo": "atari800",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 165393111,
             "language": "C++",
-            "last_commit": "2026-08-27T10:55:33Z",
+            "last_commit": "2026-08-27T12:16:21Z",
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 530809,
             "language": "C++",
-            "last_commit": "2026-08-25T14:52:18Z",
+            "last_commit": "2026-08-27T17:34:59Z",
             "owner": "tonioni",
             "repo": "WinUAE",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "Home Computers"
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 11577304,
             "language": "C++",
-            "last_commit": "2026-08-25T19:24:09Z",
+            "last_commit": "2026-08-27T16:48:49Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15447
-          }
+            "stars": 15450
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -132,8 +139,9 @@
             "last_commit": "2025-10-22T21:39:10Z",
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17728
-          }
+            "stars": 17732
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2026-08-24T16:23:57Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15376
-          }
+            "stars": 15384
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "project64",
             "repo": "project64",
             "stars": 3026
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-27T01:30:27Z",
+            "last_commit": "2026-08-28T02:50:57Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13578
-          }
+            "stars": 13641
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "Consoles"
@@ -199,7 +210,8 @@
             "owner": "ozaki-r",
             "repo": "arm-js",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -213,8 +225,9 @@
             "last_commit": "2026-08-27T11:23:41Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9270
-          }
+            "stars": 9269
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "CPUs"
@@ -231,11 +244,12 @@
             "archived": false,
             "id": 5487921,
             "language": "Java",
-            "last_commit": "2026-08-25T15:33:41Z",
+            "last_commit": "2026-08-27T19:07:15Z",
             "owner": "robo-code",
             "repo": "robocode",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -246,11 +260,12 @@
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-27T10:03:42Z",
+            "last_commit": "2026-08-27T19:04:49Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -261,11 +276,12 @@
             "archived": false,
             "id": 156228018,
             "language": "C++",
-            "last_commit": "2026-08-27T00:22:39Z",
+            "last_commit": "2026-08-28T01:51:36Z",
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4578
-          }
+            "stars": 4579
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "Robotics"
@@ -286,7 +302,8 @@
             "owner": "janjongboom",
             "repo": "mbed-simulator",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -301,7 +318,8 @@
             "owner": "SteveyO",
             "repo": "Hue-Emulator",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "waveform80",
             "repo": "python-sense-hat",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "aws-solutions",
             "repo": "iot-device-simulator",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "Internet of Things"
@@ -352,7 +372,8 @@
             "owner": "movsim",
             "repo": "movsim",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -367,7 +388,8 @@
             "owner": "movsim",
             "repo": "traffic-simulation-de",
             "stars": 1048
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -382,7 +404,8 @@
             "owner": "awmorp",
             "repo": "turing",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "mirkoperillo",
             "repo": "enigma",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         },
         {
           "node_type": "item",
@@ -411,15 +435,16 @@
             "last_commit": "2026-08-25T23:18:55Z",
             "owner": "virtualagc",
             "repo": "virtualagc",
-            "stars": 3214
-          }
+            "stars": 3216
+          },
+          "first_seen": "2026-08-28T05:50:34.960Z"
         }
       ],
       "title": "Various"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:35.092Z",
+    "last_updated": "2026-08-28T05:50:34.960Z",
     "original_repository_info": {
       "archived": false,
       "id": 66467957,
