@@ -82,7 +82,7 @@
             "archived": false,
             "id": 165393111,
             "language": "C++",
-            "last_commit": "2026-08-27T12:16:21Z",
+            "last_commit": "2026-08-28T16:27:19Z",
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
             "stars": 404
@@ -120,10 +120,10 @@
             "archived": false,
             "id": 11577304,
             "language": "C++",
-            "last_commit": "2026-08-27T16:48:49Z",
+            "last_commit": "2026-08-29T01:19:23Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15450
+            "stars": 15455
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -139,7 +139,7 @@
             "last_commit": "2025-10-22T21:39:10Z",
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17732
+            "stars": 17735
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -152,10 +152,10 @@
             "archived": false,
             "id": 15379620,
             "language": "C++",
-            "last_commit": "2026-08-24T16:23:57Z",
+            "last_commit": "2026-08-28T22:18:38Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15384
+            "stars": 15401
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T23:54:20Z",
             "owner": "project64",
             "repo": "project64",
-            "stars": 3026
+            "stars": 3027
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -184,10 +184,10 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-28T02:50:57Z",
+            "last_commit": "2026-08-29T00:21:41Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13641
+            "stars": 13700
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 41107037,
             "language": "C",
-            "last_commit": "2026-08-27T11:23:41Z",
+            "last_commit": "2026-08-28T09:09:56Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9269
+            "stars": 9270
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -260,7 +260,7 @@
             "archived": false,
             "id": 9517720,
             "language": "C++",
-            "last_commit": "2026-08-27T19:04:49Z",
+            "last_commit": "2026-08-28T17:54:07Z",
             "owner": "robotology",
             "repo": "yarp",
             "stars": 602
@@ -276,10 +276,10 @@
             "archived": false,
             "id": 156228018,
             "language": "C++",
-            "last_commit": "2026-08-28T01:51:36Z",
+            "last_commit": "2026-08-28T23:17:03Z",
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4579
+            "stars": 4581
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:34.960Z",
+    "last_updated": "2026-08-29T03:23:41.322Z",
     "original_repository_info": {
       "archived": false,
       "id": 66467957,
