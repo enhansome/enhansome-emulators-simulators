@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The original IBM PC and other machine emulations in JavaScript",
+            "homepage": "https://www.pcjs.org",
             "id": 233167483,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-18T21:54:04Z",
+            "open_issues": 43,
             "owner": "jeffpar",
             "repo": "pcjs",
-            "stars": 1212
+            "stars": 1212,
+            "topics": [
+              "6502",
+              "8080",
+              "8088",
+              "dos",
+              "emulator",
+              "ibm-pc",
+              "javascript",
+              "pcjs",
+              "space-invaders",
+              "ti-57",
+              "vt100",
+              "windows",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -26,12 +45,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XTulator is a portable, open source x86 PC emulator currently supporting the 8086 instruction set and 80186 extensions.",
+            "homepage": null,
             "id": 277698662,
             "language": "C",
+            "license": null,
             "last_commit": "2024-06-19T03:56:51Z",
+            "open_issues": 4,
             "owner": "mikechambers84",
             "repo": "XTulator",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "8086",
+              "emulator",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -48,12 +76,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apple II emulator for Windows",
+            "homepage": null,
             "id": 18493101,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-15T15:14:35Z",
+            "open_issues": 366,
             "owner": "AppleWin",
             "repo": "AppleWin",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "6502",
+              "appleii",
+              "emulator"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -64,12 +101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atari 8-bit computer and 5200 console emulator",
+            "homepage": "https://atari800.github.io/",
             "id": 99251536,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T14:01:58Z",
+            "open_issues": 20,
             "owner": "atari800",
             "repo": "atari800",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -80,12 +122,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS",
+            "homepage": "https://dirkwhoffmann.github.io/vAmiga",
             "id": 165393111,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:27:19Z",
+            "open_issues": 16,
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "amiga",
+              "amiga-emulator",
+              "emulator",
+              "retrocomputing"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -96,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinUAE Amiga emulator",
+            "homepage": "http://www.winuae.net/",
             "id": 530809,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T17:34:59Z",
+            "open_issues": 48,
             "owner": "tonioni",
             "repo": "WinUAE",
-            "stars": 678
+            "stars": 678,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -118,12 +175,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "homepage": "https://dolphin-emu.org",
             "id": 11577304,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T01:19:23Z",
+            "open_issues": 461,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15455
+            "stars": 15455,
+            "topics": [
+              "cpp",
+              "emulation",
+              "emulator",
+              "gamecube",
+              "wii"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -134,12 +202,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹 Retro video game emulation for macOS",
+            "homepage": "https://openemu.org",
             "id": 1185279,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-10-22T21:39:10Z",
+            "open_issues": 423,
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17735
+            "stars": 17735,
+            "topics": [
+              "emulation",
+              "emulator",
+              "macos",
+              "objective-c",
+              "openemu",
+              "retrogaming"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -150,12 +230,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PCSX2 - The Playstation 2 Emulator",
+            "homepage": "https://pcsx2.net",
             "id": 15379620,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:18:38Z",
+            "open_issues": 828,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15401
+            "stars": 15404,
+            "topics": [
+              "cpp",
+              "emulation",
+              "emulator",
+              "pcsx2",
+              "ps2"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -166,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "N64 Emulator",
+            "homepage": "http://www.pj64-emu.com/",
             "id": 26941088,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-20T23:54:20Z",
+            "open_issues": 274,
             "owner": "project64",
             "repo": "project64",
-            "stars": 3027
+            "stars": 3027,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -182,12 +278,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+            "homepage": "http://www.libretro.com",
             "id": 689344,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:21:41Z",
+            "open_issues": 3009,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13700
+            "stars": 13700,
+            "topics": [
+              "c",
+              "libretro",
+              "retroarch"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -204,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ARM emulator written in JavaScript",
+            "homepage": null,
             "id": 4536941,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-02-11T13:26:51Z",
+            "open_issues": 12,
             "owner": "ozaki-r",
             "repo": "arm-js",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -220,12 +330,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+            "homepage": "http://www.unicorn-engine.org",
             "id": 41107037,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T09:09:56Z",
+            "open_issues": 213,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9270
+            "stars": 9271,
+            "topics": [
+              "arm",
+              "arm64",
+              "cpu",
+              "cpu-emulator",
+              "emulator",
+              "framework",
+              "m68k",
+              "mips",
+              "powerpc",
+              "reverse-engineering",
+              "riscv",
+              "s390x",
+              "security",
+              "sparc",
+              "systemz",
+              "tricore",
+              "x86",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -242,12 +376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build the best - destroy the rest!",
+            "homepage": null,
             "id": 5487921,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T19:07:15Z",
+            "open_issues": 0,
             "owner": "robo-code",
             "repo": "robocode",
-            "stars": 813
+            "stars": 813,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -258,12 +397,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YARP - Yet Another Robot Platform",
+            "homepage": "http://www.yarp.it",
             "id": 9517720,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:54:07Z",
+            "open_issues": 251,
             "owner": "robotology",
             "repo": "yarp",
-            "stars": 602
+            "stars": 602,
+            "topics": [
+              "artificial-intelligence",
+              "communication",
+              "devices",
+              "human-robot-interaction",
+              "humanoids",
+              "interprocess-communication",
+              "ipc",
+              "middleware",
+              "network",
+              "research",
+              "robot",
+              "robotics",
+              "robotics-libraries",
+              "yarp"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -274,12 +433,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webots Robot Simulator",
+            "homepage": "https://cyberbotics.com",
             "id": 156228018,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:17:03Z",
+            "open_issues": 228,
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4581
+            "stars": 4581,
+            "topics": [
+              "3d-engine",
+              "ai",
+              "autonomous-vehicles",
+              "computer-vision",
+              "fluid-dynamics",
+              "multi-platform",
+              "open-source",
+              "physics-engine",
+              "robot",
+              "robot-simulation",
+              "robot-simulator",
+              "robotics",
+              "robotics-simulation",
+              "robots",
+              "ros",
+              "ros2",
+              "simulated-robots",
+              "simulation",
+              "simulator",
+              "webots"
+            ]
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -296,12 +481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental simulator for Mbed OS 5 applications",
+            "homepage": null,
             "id": 110965716,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-13T16:03:34Z",
+            "open_issues": 11,
             "owner": "janjongboom",
             "repo": "mbed-simulator",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -312,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bridge API Emulator for the Philips Hue (Personal Wireless System)",
+            "homepage": null,
             "id": 15141661,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-07-08T12:22:12Z",
+            "open_issues": 19,
             "owner": "SteveyO",
             "repo": "Hue-Emulator",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -328,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Sense HAT Python library",
+            "homepage": "https://pypi.python.org/pypi/sense-hat",
             "id": 43307540,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-07-12T13:22:56Z",
+            "open_issues": 0,
             "owner": "waveform80",
             "repo": "python-sense-hat",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -344,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The IoT Device Simulator solution is a Graphical User Interface (GUI) based engine designed to enable customers to get started quickly assessing AWS IoT services without an existing pool of devices. The IoT Device Simulator helps effortlessly create and simulate thousands of connected devices that are defined by the customer.",
+            "homepage": "https://aws.amazon.com/solutions/implementations/iot-device-simulator/",
             "id": 126382074,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-30T20:24:54Z",
+            "open_issues": 2,
             "owner": "aws-solutions",
             "repo": "iot-device-simulator",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -366,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MovSim: multi-model open-source vehicular-traffic simulator",
+            "homepage": "www.movsim.org",
             "id": 1984080,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-10T23:46:55Z",
+            "open_issues": 19,
             "owner": "movsim",
             "repo": "movsim",
-            "stars": 340
+            "stars": 340,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -382,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for javascript simulation of website",
+            "homepage": "http://www.traffic-simulation.de",
             "id": 69392792,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T17:36:44Z",
+            "open_issues": 6,
             "owner": "movsim",
             "repo": "traffic-simulation-de",
-            "stars": 1048
+            "stars": 1048,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -398,12 +613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turing machine simulator in HTML/Javascript",
+            "homepage": null,
             "id": 27989855,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2024-01-28T00:17:44Z",
+            "open_issues": 0,
             "owner": "awmorp",
             "repo": "turing",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -414,12 +634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an enigma machine emulator developed in go",
+            "homepage": null,
             "id": 350832456,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2023-05-19T13:24:41Z",
+            "open_issues": 0,
             "owner": "mirkoperillo",
             "repo": "enigma",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         },
@@ -430,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual Apollo Guidance Computer (AGC) software",
+            "homepage": "http://www.ibiblio.org/apollo",
             "id": 33563164,
             "language": "Assembly",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T23:18:55Z",
+            "open_issues": 30,
             "owner": "virtualagc",
             "repo": "virtualagc",
-            "stars": 3216
+            "stars": 3216,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
         }
@@ -444,15 +674,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:41.322Z",
+    "last_updated": "2026-08-29T04:49:23.653Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
+      "homepage": "https://www.emmecilab.net",
       "id": 66467957,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-30T07:01:15Z",
+      "open_issues": 16,
       "owner": "mcicolella",
       "repo": "awesome-emulators-simulators",
-      "stars": 215
+      "stars": 215,
+      "topics": [
+        "amiga",
+        "awesome",
+        "awesome-list",
+        "commodore",
+        "commodore-64",
+        "commodore64",
+        "emulation",
+        "emulator",
+        "hacktoberfest",
+        "hacktoberfest2024",
+        "mainframe",
+        "mainframes",
+        "mini-computer",
+        "mini-computers",
+        "robotics",
+        "simulation",
+        "simulations",
+        "simulator",
+        "vic20"
+      ]
     },
     "original_repository_sha": "6daaa808059efe5408ab016cbc7ae179eecf84d9",
     "enhanced_repository": "enhansome/enhansome-emulators-simulators",
