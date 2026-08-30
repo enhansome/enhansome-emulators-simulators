@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "jeffpar",
             "repo": "pcjs",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "6502",
               "8080",
@@ -85,7 +85,7 @@
             "open_issues": 367,
             "owner": "AppleWin",
             "repo": "AppleWin",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "6502",
               "appleii",
@@ -106,7 +106,7 @@
             "id": 99251536,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-25T14:01:58Z",
+            "last_commit": "2026-08-30T13:55:03Z",
             "open_issues": 20,
             "owner": "atari800",
             "repo": "atari800",
@@ -153,8 +153,8 @@
             "id": 530809,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-29T05:46:52Z",
-            "open_issues": 46,
+            "last_commit": "2026-08-30T17:32:48Z",
+            "open_issues": 47,
             "owner": "tonioni",
             "repo": "WinUAE",
             "stars": 678,
@@ -180,11 +180,11 @@
             "id": 11577304,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T11:54:55Z",
-            "open_issues": 457,
+            "last_commit": "2026-08-30T04:51:10Z",
+            "open_issues": 459,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15455,
+            "stars": 15463,
             "topics": [
               "cpp",
               "emulation",
@@ -211,7 +211,7 @@
             "open_issues": 423,
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17738,
+            "stars": 17741,
             "topics": [
               "emulation",
               "emulator",
@@ -235,11 +235,11 @@
             "id": 15379620,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T22:18:38Z",
-            "open_issues": 830,
+            "last_commit": "2026-08-30T20:09:44Z",
+            "open_issues": 829,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15412,
+            "stars": 15423,
             "topics": [
               "cpp",
               "emulation",
@@ -262,7 +262,7 @@
             "id": 26941088,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-20T23:54:20Z",
+            "last_commit": "2026-08-30T10:38:20Z",
             "open_issues": 275,
             "owner": "project64",
             "repo": "project64",
@@ -283,11 +283,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T22:44:24Z",
-            "open_issues": 3011,
+            "last_commit": "2026-08-30T23:55:16Z",
+            "open_issues": 3013,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13712,
+            "stars": 13726,
             "topics": [
               "c",
               "libretro",
@@ -339,7 +339,7 @@
             "open_issues": 214,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9275,
+            "stars": 9279,
             "topics": [
               "arm",
               "arm64",
@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "robo-code",
             "repo": "robocode",
-            "stars": 813,
+            "stars": 814,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -442,7 +442,7 @@
             "open_issues": 228,
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4582,
+            "stars": 4584,
             "topics": [
               "3d-engine",
               "ai",
@@ -664,7 +664,7 @@
             "open_issues": 30,
             "owner": "virtualagc",
             "repo": "virtualagc",
-            "stars": 3216,
+            "stars": 3218,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:39:29.251Z",
+    "last_updated": "2026-08-30T23:56:50.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
