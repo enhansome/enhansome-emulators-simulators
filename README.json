@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "jeffpar",
             "repo": "pcjs",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "6502",
               "8080",
@@ -81,8 +81,8 @@
             "id": 18493101,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-18T20:59:31Z",
-            "open_issues": 372,
+            "last_commit": "2026-09-19T20:48:05Z",
+            "open_issues": 371,
             "owner": "AppleWin",
             "repo": "AppleWin",
             "stars": 928,
@@ -153,11 +153,11 @@
             "id": 530809,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-17T19:28:25Z",
+            "last_commit": "2026-09-19T20:34:11Z",
             "open_issues": 54,
             "owner": "tonioni",
             "repo": "WinUAE",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -181,10 +181,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T23:36:38Z",
-            "open_issues": 484,
+            "open_issues": 485,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15545,
+            "stars": 15546,
             "topics": [
               "cpp",
               "emulation",
@@ -211,7 +211,7 @@
             "open_issues": 426,
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17776,
+            "stars": 17780,
             "topics": [
               "emulation",
               "emulator",
@@ -235,11 +235,11 @@
             "id": 15379620,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T18:01:04Z",
-            "open_issues": 804,
+            "last_commit": "2026-09-19T19:33:18Z",
+            "open_issues": 802,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15581,
+            "stars": 15590,
             "topics": [
               "cpp",
               "emulation",
@@ -266,7 +266,7 @@
             "open_issues": 277,
             "owner": "project64",
             "repo": "project64",
-            "stars": 3045,
+            "stars": 3046,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -283,11 +283,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T22:08:53Z",
-            "open_issues": 2994,
+            "last_commit": "2026-09-19T21:53:36Z",
+            "open_issues": 2995,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14048,
+            "stars": 14052,
             "topics": [
               "c",
               "libretro",
@@ -339,7 +339,7 @@
             "open_issues": 217,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9344,
+            "stars": 9351,
             "topics": [
               "arm",
               "arm64",
@@ -442,7 +442,7 @@
             "open_issues": 229,
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4640,
+            "stars": 4642,
             "topics": [
               "3d-engine",
               "ai",
@@ -660,8 +660,8 @@
             "id": 33563164,
             "language": "Assembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T10:52:51Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-19T02:00:42Z",
+            "open_issues": 31,
             "owner": "virtualagc",
             "repo": "virtualagc",
             "stars": 3234,
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:39:53.596Z",
+    "last_updated": "2026-09-19T23:39:50.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
