@@ -85,7 +85,7 @@
             "open_issues": 369,
             "owner": "AppleWin",
             "repo": "AppleWin",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "6502",
               "appleii",
@@ -184,7 +184,7 @@
             "open_issues": 480,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15612,
+            "stars": 15615,
             "topics": [
               "cpp",
               "emulation",
@@ -239,7 +239,7 @@
             "open_issues": 814,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15702,
+            "stars": 15705,
             "topics": [
               "cpp",
               "emulation",
@@ -283,11 +283,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T01:50:09Z",
-            "open_issues": 2970,
+            "last_commit": "2026-10-06T10:10:48Z",
+            "open_issues": 2971,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14232,
+            "stars": 14234,
             "topics": [
               "c",
               "libretro",
@@ -339,7 +339,7 @@
             "open_issues": 229,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9402,
+            "stars": 9404,
             "topics": [
               "arm",
               "arm64",
@@ -402,7 +402,7 @@
             "id": 9517720,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T13:17:26Z",
+            "last_commit": "2026-10-06T09:51:14Z",
             "open_issues": 249,
             "owner": "robotology",
             "repo": "yarp",
@@ -438,7 +438,7 @@
             "id": 156228018,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T23:13:58Z",
+            "last_commit": "2026-10-06T05:47:32Z",
             "open_issues": 228,
             "owner": "cyberbotics",
             "repo": "webots",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:56:56.983Z",
+    "last_updated": "2026-10-06T10:17:12.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
