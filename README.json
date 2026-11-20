@@ -15,7 +15,7 @@
             "id": 233167483,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T22:16:33Z",
+            "last_commit": "2026-11-19T05:49:22Z",
             "open_issues": 53,
             "owner": "jeffpar",
             "repo": "pcjs",
@@ -128,10 +128,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T16:15:29Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "dirkwhoffmann",
             "repo": "vAmiga",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "amiga",
               "amiga-emulator",
@@ -153,7 +153,7 @@
             "id": 530809,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T16:10:04Z",
+            "last_commit": "2026-11-19T19:28:12Z",
             "open_issues": 45,
             "owner": "tonioni",
             "repo": "WinUAE",
@@ -181,7 +181,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T19:26:49Z",
-            "open_issues": 483,
+            "open_issues": 487,
             "owner": "dolphin-emu",
             "repo": "dolphin",
             "stars": 15848,
@@ -235,11 +235,11 @@
             "id": 15379620,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T11:28:26Z",
-            "open_issues": 803,
+            "last_commit": "2026-11-20T01:00:07Z",
+            "open_issues": 804,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 16099,
+            "stars": 16101,
             "topics": [
               "cpp",
               "emulation",
@@ -262,11 +262,11 @@
             "id": 26941088,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-08T09:27:39Z",
+            "last_commit": "2026-11-19T11:10:39Z",
             "open_issues": 284,
             "owner": "project64",
             "repo": "project64",
-            "stars": 3078,
+            "stars": 3079,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -283,11 +283,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T02:12:19Z",
-            "open_issues": 2966,
+            "last_commit": "2026-11-20T02:37:27Z",
+            "open_issues": 2967,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14649,
+            "stars": 14655,
             "topics": [
               "c",
               "libretro",
@@ -339,7 +339,7 @@
             "open_issues": 279,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9592,
+            "stars": 9593,
             "topics": [
               "arm",
               "arm64",
@@ -385,7 +385,7 @@
             "open_issues": 1,
             "owner": "robo-code",
             "repo": "robocode",
-            "stars": 820,
+            "stars": 819,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -438,7 +438,7 @@
             "id": 156228018,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T23:13:30Z",
+            "last_commit": "2026-11-19T23:13:03Z",
             "open_issues": 224,
             "owner": "cyberbotics",
             "repo": "webots",
@@ -580,7 +580,7 @@
             "open_issues": 19,
             "owner": "movsim",
             "repo": "movsim",
-            "stars": 341,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -601,7 +601,7 @@
             "open_issues": 5,
             "owner": "movsim",
             "repo": "traffic-simulation-de",
-            "stars": 1058,
+            "stars": 1057,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -660,7 +660,7 @@
             "id": 33563164,
             "language": "Assembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T00:39:16Z",
+            "last_commit": "2026-11-20T02:39:23Z",
             "open_issues": 29,
             "owner": "virtualagc",
             "repo": "virtualagc",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:50:59.670Z",
+    "last_updated": "2026-11-20T02:41:16.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
