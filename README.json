@@ -15,7 +15,7 @@
             "id": 233167483,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T20:27:11Z",
+            "last_commit": "2026-11-24T18:39:28Z",
             "open_issues": 53,
             "owner": "jeffpar",
             "repo": "pcjs",
@@ -184,7 +184,7 @@
             "open_issues": 493,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15881,
+            "stars": 15891,
             "topics": [
               "cpp",
               "emulation",
@@ -211,7 +211,7 @@
             "open_issues": 434,
             "owner": "OpenEmu",
             "repo": "OpenEmu",
-            "stars": 17881,
+            "stars": 17882,
             "topics": [
               "emulation",
               "emulator",
@@ -235,11 +235,11 @@
             "id": 15379620,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T00:28:59Z",
+            "last_commit": "2026-11-25T00:01:26Z",
             "open_issues": 811,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 16133,
+            "stars": 16138,
             "topics": [
               "cpp",
               "emulation",
@@ -266,7 +266,7 @@
             "open_issues": 284,
             "owner": "project64",
             "repo": "project64",
-            "stars": 3082,
+            "stars": 3085,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:34.960Z"
@@ -283,11 +283,11 @@
             "id": 689344,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T00:15:03Z",
-            "open_issues": 2971,
+            "last_commit": "2026-11-25T00:16:31Z",
+            "open_issues": 2972,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 14691,
+            "stars": 14699,
             "topics": [
               "c",
               "libretro",
@@ -339,7 +339,7 @@
             "open_issues": 283,
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9608,
+            "stars": 9612,
             "topics": [
               "arm",
               "arm64",
@@ -381,7 +381,7 @@
             "id": 5487921,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T23:00:35Z",
+            "last_commit": "2026-11-24T19:45:21Z",
             "open_issues": 2,
             "owner": "robo-code",
             "repo": "robocode",
@@ -438,11 +438,11 @@
             "id": 156228018,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T04:07:13Z",
-            "open_issues": 225,
+            "last_commit": "2026-11-25T04:07:43Z",
+            "open_issues": 219,
             "owner": "cyberbotics",
             "repo": "webots",
-            "stars": 4777,
+            "stars": 4776,
             "topics": [
               "3d-engine",
               "ai",
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:36:51.315Z",
+    "last_updated": "2026-11-25T04:37:34.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...",
